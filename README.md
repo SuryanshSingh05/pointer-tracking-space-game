@@ -1,5 +1,5 @@
 # *pointer-tracking-space-game*
-Game implementation for pointer tracking with april tags
+Game implementation for pointer tracking with april tags.
 
 
 ## Python libraries needed:
